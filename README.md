@@ -23,6 +23,9 @@
 
 ## 🛠️ Programing Languages:
 [![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python")
+[![](https://skillicons.dev/icons?i=html)](https://de.wikipedia.org/wiki/Hypertext_Markup_Language "HTML")
+[![](https://skillicons.dev/icons?i=js)](https://de.wikipedia.org/wiki/JavaScript "JavaScript")
+[![](https://skillicons.dev/icons?i=css)](https://de.wikipedia.org/wiki/CSS "CSS")
 
 ## 📈 Stats:
 <!--START_SECTION:waka-->
