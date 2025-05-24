@@ -56,7 +56,8 @@ Sunday                   2921 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      52 mins             █████████████████░░░░░░░░   69.02 % 
+HTML                     23 mins             ████████░░░░░░░░░░░░░░░░░   30.98 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +73,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2025 02:02:15 UTC
+ Last Updated on 24/05/2025 01:57:22 UTC
 <!--END_SECTION:waka-->
